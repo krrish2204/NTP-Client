@@ -1,6 +1,6 @@
 # ntp-client
 A simple NTP client written in C99.
-
+infact its a nice client code
 This program sends a NTP request using UDP, receives a response and displays the response message "transmit seconds" field.
 
 ## Building
